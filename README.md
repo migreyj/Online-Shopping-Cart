@@ -1,1 +1,1 @@
-A collection of projects created Miguel Reyes
+Online shopping cart passes unit tests and direct calls
